@@ -1,1 +1,3 @@
-Creating Migrations -> dotnet ef migrations add Migration1
+
+Get Help => dotnet ef
+Creating Migrations => dotnet ef migrations add Migration1
