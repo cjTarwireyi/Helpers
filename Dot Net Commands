@@ -3,3 +3,4 @@ Get Help => dotnet ef
 Get Help on Migrations => dotnet ef migrations  -h
 Creating Migrations => dotnet ef migrations add Migration1
 Applying Migration => dotnet ef database update
+Adding Nugget Package =>  dotnet add package  AutoMapper.Extension.Microsoft.DependencyInjection
